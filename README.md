@@ -1,10 +1,14 @@
 ### Hi there, I'm Vedant👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantPol&label=Profile%20views&color=0e75b6&style=flat" alt="VedantPol" /> </p>
+
 ## I'm a Web Dev & Open Source Enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 Reach me at **polvedant7@gmali.com**
 - ⚡ Fun fact: I love to draw and play volleyball
 
 ### Connect with me:
@@ -35,6 +39,8 @@
 
 <br />
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantPol&show_icons=true&locale=en&layout=compact" alt="VedantPol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantPol&show_icons=true&locale=en" alt="VedantPol" /></p>
 
 [comment]:#[website]:
 [twitter]: https://twitter.com/vedant_pol
