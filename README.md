@@ -1,15 +1,8 @@
-### Hi there, I'm Vedant👋
-
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Vedant. I like code. Thanks for reading.">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantPol&label=Profile%20views&color=0e75b6&style=flat" alt="VedantPol" /> </p>
-
-## I'm a Web Dev & Open Source Enthusiast!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 Reach me at **polvedant7@gmali.com**
-
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
