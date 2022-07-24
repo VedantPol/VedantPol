@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 Reach me at **polvedant7@gmali.com**
-- ⚡ Fun fact: I love to draw and play volleyball
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
